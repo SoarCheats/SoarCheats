@@ -16,7 +16,7 @@ soars fan club :)
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg'> </a>
-<img width ='48px' src ='https://th.bing.com/th/id/OIP.FuNinirEC-P_A11JktLeugHaE8?pid=ImgDet&rs=1'> </a>
+<img width ='48px' src ='https://th.bing.com/th/id/OIP.GXNhP5K9zDfpGbQg7CqvEwAAAA?pid=ImgDet&rs=1'> </a>
 <img width ='48px' src ='https://th.bing.com/th/id/R.ae785dbbbceb78d2c7503fd7df9fa75a?rik=zAM04VMfy8lpYQ&pid=ImgRaw&r=0'> </a>
 </a>
 
