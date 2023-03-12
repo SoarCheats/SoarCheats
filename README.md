@@ -25,4 +25,4 @@ soars fan club :)
 
    <a href="https://discord.gg/BVQJGCSzeb" target="blank"><img align="center"
          src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/discord.svg"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="50"/></a>
