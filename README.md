@@ -21,10 +21,8 @@ soars fan club :)
 </a>
 <p>
 
-## GitHub Stats
+## Contact Me
 
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=SoarCheats&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoarCheats&theme=algolia)                    | 
+   <a href="https://discord.gg/BVQJGCSzeb" target="blank"><img align="center"
+         src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/discord.svg"
+         alt="azzar" height="30"/></a>
