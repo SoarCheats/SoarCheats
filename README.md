@@ -34,6 +34,6 @@ soars fan club :)
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=SoarCheats&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=SoarCheats&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoarCheats&langs_count=8&theme=algolia)
 	
 ![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
