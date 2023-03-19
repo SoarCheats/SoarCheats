@@ -17,7 +17,7 @@ soars fan club :)
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://th.bing.com/th/id/R.8ea21bd337fbf80b46e15b4d53a81b78?rik=fX4Dj7nEx8fzLg&riu=http%3a%2f%2f48pedia.org%2fimages%2fthumb%2f8%2f8e%2fLua-logo.svg%2f1200px-Lua-logo.svg.png&ehk=F7nHO1i%2fU%2bmVnn7ADsqrTOWi3%2ftc5bBYw56p5o29crI%3d&risl=&pid=ImgRaw&r=0'> </a>
-<img width ='48px' src ='https://th.bing.com/th/id/R.ae785dbbbceb78d2c7503fd7df9fa75a?rik=zAM04VMfy8lpYQ&pid=ImgRaw&r=0'> </a>
+<img width ='48px' src ='https://th.bing.com/th/id/R.5aa859d1403dc68841cd5ad3f38137fc?rik=F3jxxZ7lkcHMmw&pid=ImgRaw&r=0'> </a>
 </a>
 <p>
 
