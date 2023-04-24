@@ -4,7 +4,7 @@ soars fan club :)
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=SoarCheats;Common+W;Popular+In+Cheating+Community;Fuck+Anti+Cheats;Wanted+In+13+States;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=SoarCheats;Common+W;Popular+In+Cheating+Community;Fuck+Anti+Cheats;Wanted+In+13+States;discord.gg/rlbmods;)](https://git.io/typing-svg)
 
 ### Programming Languages
 
